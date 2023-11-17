@@ -1,0 +1,74 @@
+Introduction to PHP :-
+
+    1.  PHP is a server scripting language, and is a powerful tool for making dynamic
+        and interactive Web pages quickly.
+
+    2.  PHP is a widely used free, open-source, and efficient alternative to competitors such as 
+        Microsoft's ASP. 
+    
+    3.  It was widely used in Facebook.
+
+What is a PHP File?
+
+    1. PHP files can contain HTML, CSS, JS and PHP code.
+
+    2. PHP code is executed on the server and result is returned to the browser as plain HTML.
+
+    3. PHP files have extension ".php".
+
+What can PHP do?
+
+    1.  PHP can generate dynamic page content.
+
+    2.  PHP can create, open, read, write and close files on server.
+
+    3.  PHP can collect form data.
+
+    4.  PHP can send and receive cookies.
+
+    5.  PHP can add, delete, modify data in db.
+
+    6.  PHP can restrict users to access some pages on website.
+
+    7.  PHP can encrypt data. 
+
+    8.  With PHP we are not just limited to output HTML. We can output images, PDF files, and even 
+        Flash movies. Can output any text, such as XHTML and XML.
+
+Why PHP?
+
+    1.  PHP runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
+
+    2.  PHP is compatible with almost all servers today (Apache, IIS, etc.)
+
+    3.  PHP supports a wide range of dbs.
+
+    4.  PHP is free. Download it from the official PHP resource.
+
+    5.  PHP is easy to learn and runs efficiently on the server side.
+
+What is needed for setup?
+
+    1.  Find web host with PHP and MySQL support.
+
+    2.  Install a web server on PC, then install PHP and MySQL.
+
+    3.  If server has activated support for PHP you do not need to do anything.
+
+    4.  Just create some .php files, place them in web directory and server will automatically parse 
+        them for you.
+
+Note :-
+
+    1.  A PHP script can be placed anywhere in document.
+
+    2.  A PHP script starts with <?php and ends with ?>.
+
+        <?php 
+            //PHP code goes here
+        ?> // default extension :- ".php"
+
+    3.  A PHP file contains HTML tags, and some PHP scripting code.
+
+    4.  PHP is case sensitive.
+
